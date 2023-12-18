@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\Arcanum.jpg",
+      "PackagePath": "staticwebassets\\Images\\Arcanum.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\Dota.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dota.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\Perimetr.jpg",
+      "PackagePath": "staticwebassets\\Images\\Perimetr.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\Siren.jpg",
+      "PackagePath": "staticwebassets\\Images\\Siren.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\Thief.jpg",
+      "PackagePath": "staticwebassets\\Images\\Thief.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\WeirdWest.jpg",
+      "PackagePath": "staticwebassets\\Images\\WeirdWest.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\default-profile-picture.jpg",
+      "PackagePath": "staticwebassets\\Images\\default-profile-picture.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\gseniyj4.jpg",
+      "PackagePath": "staticwebassets\\Images\\gseniyj4.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\swdoqpei.jpg",
+      "PackagePath": "staticwebassets\\Images\\swdoqpei.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\tjradtrz.jpg",
+      "PackagePath": "staticwebassets\\Images\\tjradtrz.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\API\\wwwroot\\Images\\uwtknovw.jpg",
+      "PackagePath": "staticwebassets\\Images\\uwtknovw.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

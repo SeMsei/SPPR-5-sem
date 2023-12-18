@@ -1,0 +1,81 @@
+﻿
+
+@{
+	ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<title>Index</title>
+	<!--Кафедра информатики. Фомичевский Д. А.
+	6-->
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/font-awesome/css/all.min.css" />
+	<link rel="stylesheet" href="~/web_153501_fomichevskiy.styles.css" asp-append-version="true" />
+</head>
+<body>
+	<main class="container">
+		<h1>Лабораторная работа 1</h1>
+		<h1>@ViewData["LabNum"]</h1>
+		<h2>Список</h2>
+		<div class="col-sm-10">
+			<ol>
+				@for (int i = 0; i < 15; i++)
+				{
+					<li>Элемент списка @(i)</li>
+				}
+			</ol>
+		</div>
+		<hr />
+		<form class="form-horizontal" role="form" method="post">
+			<h2>Форма</h2>
+			<select class="form-select" id="drop_down_list" name="selected_item_id" asp-items="@(new SelectList(ViewData["List"] as List<ListDemo>, "Id", "Name"))">
+
+			</select>
+			<fieldset class="row mb-3">
+				<div class="col-sm-10 offset-sm-2">
+					<div class="form-check form-check-inline">
+						<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+						<label class="form-check-label" for="inlineRadio1">Радио 1</label>
+					</div>
+					<div class="form-check form-check-inline">
+						<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+						<label class="form-check-label" for="inlineRadio2">Радио 2</label>
+					</div>
+					<div class="form-check form-check-inline">
+						<input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
+						<label class="form-check-label" for="inlineRadio3">Радио 3</label>
+					</div>
+				</div>
+			</fieldset>
+			<div class="row mb-3">
+				<div class="col-sm-10 offset-sm-2">
+					<div class="form-check">
+						<input class="form-check-input" type="checkbox" id="gridCheck1" name="checkbox1">
+						<label class="form-check-label" for="gridCheck1">
+							Example checkbox
+						</label>
+					</div>
+				</div>
+			</div>
+			<div class="row mb-3">
+				<label for="inputEmail3" class="col-sm-2 col-form-label">Почта</label>
+				<div class="col-sm-10">
+					<input type="email" class="form-control" id="inputEmail3" placeholder="Введите почту" name="email1">
+				</div>
+			</div>
+			<div class="row mb-3">
+				<label for="inputPassword3" class="col-sm-2 col-form-label">Пароль</label>
+				<div class="col-sm-10">
+					<input type="password" class="form-control" id="inputPassword3" placeholder="Введите пароль" name="password1">
+				</div>
+			</div>
+			<button type="submit" class="btn btn-primary">Отправить</button>
+		</form>
+	</main>
+	
+</body>
+</html>

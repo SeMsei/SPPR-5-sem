@@ -1,0 +1,62 @@
+﻿@using Domain.Entities;
+@using Domain.Models;
+@using web_153501_fomichevskiy.Util;
+
+@model ListModel<VideoGame>
+@{
+	ViewBag.Title = "Index";
+	ViewData["Title"] = "Список игр";
+	var request = ViewContext.HttpContext.Request;
+	var returnUrl = request.Path + request.QueryString.ToUriComponent();
+	string? category = request.Query["category"];
+	var categories = ViewData["categories"] as List<VideoGameCategory>;
+
+	var el = categories.Where(d => d.NormalizedName == category).ToList();
+
+	//string currentCategory = ViewData["currentCategory"] as string ?? "All";
+	string currentCategory = el.Count() == 0 ? "All" : el[0].Name;
+}
+
+
+
+		<div class="container ">
+			<div class="dropdown">
+				<!-- categories dropdown -->
+				<button class="btn btn-secondary dropdown-toggle" style="min-width: 200px" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+					@currentCategory
+				</button>
+				<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+					<li style="min-width: 200px">
+						<a class="dropdown-item"
+						   asp-controller="Product"
+						   asp-action="Index"
+						   asp-route-category=@null>All</a>
+					</li>
+					@foreach (var item in categories)
+					{
+						<li style="min-width: 200px"><a class="dropdown-item" asp-controller="Product" asp-action="Index" asp-route-category=@item.NormalizedName>@item.Name</a></li>
+					}
+				</ul>
+			</div> <!-- /categories dropdown -->
+	<div id="partial-content">
+		﻿
+		<partial name="_ListPart"></partial>
+    </div>
+			<!--await Html.RenderPartialAsync("_ListPart", new
+			{
+				CurrentCategory = currentCategory,
+				Category = category,
+				ReturnUrl = returnUrl,
+				CurrentPage = Model.currentPage,
+				TotalPages = Model.totalPages,
+				Items = Model.VGList,
+				InAdminArea = false,
+			});
+		}-->
+			
+</div>
+
+
+						@section Scripts{
+							<script src="~/js/site.js"></script>
+						}

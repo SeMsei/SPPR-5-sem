@@ -1,0 +1,465 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\Images\\Arcanum.jpg",
+      "PackagePath": "staticwebassets\\Images\\Arcanum.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\Images\\Dota.jpg",
+      "PackagePath": "staticwebassets\\Images\\Dota.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\Images\\Penumbra.jpg",
+      "PackagePath": "staticwebassets\\Images\\Penumbra.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\Images\\Perimetr.jpg",
+      "PackagePath": "staticwebassets\\Images\\Perimetr.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\Images\\Siren.jpg",
+      "PackagePath": "staticwebassets\\Images\\Siren.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\Images\\Thief.jpg",
+      "PackagePath": "staticwebassets\\Images\\Thief.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\Images\\WeirdWest.jpg",
+      "PackagePath": "staticwebassets\\Images\\WeirdWest.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\Images\\default-profile-picture.jpg",
+      "PackagePath": "staticwebassets\\Images\\default-profile-picture.jpg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Study\\ISP\\5_term\\web_153501_fomichevskiy\\web_153501_fomichevskiy\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.web_153501_fomichevskiy.props",
+      "PackagePath": "build\\web_153501_fomichevskiy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.web_153501_fomichevskiy.props",
+      "PackagePath": "buildMultiTargeting\\web_153501_fomichevskiy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.web_153501_fomichevskiy.props",
+      "PackagePath": "buildTransitive\\web_153501_fomichevskiy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.web_153501_fomichevskiy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

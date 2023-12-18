@@ -1,0 +1,21 @@
+
+.nav-color {
+    color: rgba(255, 255, 255, 0.5)
+}
+
+footer {
+    margin-top: 20px;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(var(--bs-dark-rgb));
+}
+
+body {
+    margin-top: 70px;
+    display: block;
+}
+
+header {
+    background-color: rgba(var(--bs-dark-rgb));
+}
+

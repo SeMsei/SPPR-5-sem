@@ -1,0 +1,14 @@
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\bin\Debug\net6.0\Domain.dll
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\obj\Debug\net6.0\Domain.dll
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+E:\Study\ISP\5_term\web_153501_fomichevskiy\Domain\obj\Debug\net6.0\ref\Domain.dll

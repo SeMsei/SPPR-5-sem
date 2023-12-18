@@ -1,0 +1,23 @@
+﻿@page "/fetchdata"
+@using Domain.Entities;
+@using Domain.Models;
+@using System.Text.Json;
+@using System;
+@using BlazorWasm.Components
+@inject HttpClient Http
+@inject IDataService dataService
+
+<PageTitle>VideoGames</PageTitle>
+
+<VGList />
+
+@code {
+	[Inject]
+	public IDataService DataService { get; set; }
+
+	protected override async Task OnInitializedAsync()
+	{
+		await DataService.GetVGListAsync(null);
+    }
+
+}

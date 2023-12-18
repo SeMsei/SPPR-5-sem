@@ -1,0 +1,54 @@
+﻿@inject IDataService DataService
+@implements IDisposable
+
+<AuthorizeView>
+	<Authorized>
+		<h1>Video games list</h1>
+
+		@if (DataService.VGList is null || !DataService.Success)
+		{
+			<p><em>Loading...</em></p>
+		}
+		else
+		{
+			<table class="table">
+				<thead>
+					<tr>
+						<th>Name</th>
+						@*<th>Description</th>
+						<th>Price</th>*@
+						<th></th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var cl in DataService.VGList!)
+					{
+						<tr>
+							<td>@cl.Name</td>
+							@*<td>@cl.Description</td>
+							<td>@cl.Price</td>*@
+							<td> <button class="btn btn-primary" @onclick="() => VGSelected.Invoke(cl.Id)">Подробнее</button></td>
+						</tr>
+					}
+				</tbody>
+			</table>
+		}
+	</Authorized>
+	<NotAuthorized>
+		<a href="authentication/login">Log in</a>
+	</NotAuthorized>
+</AuthorizeView>
+
+@code {
+	protected override void OnInitialized()
+	{
+		DataService.DataChanged += StateHasChanged;
+	}
+	public void Dispose()
+	{
+		DataService.DataChanged -= StateHasChanged;
+	}
+
+	[Parameter]
+	public Action<int> VGSelected { get; set; }
+}
